@@ -1,4 +1,4 @@
-STATUS_OF break gfw PROXY
+status-of-break-gfw-proxy
 1 origin clash
 (shit code like linux) has been banned
 2 clashmeta 
