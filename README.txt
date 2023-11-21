@@ -11,3 +11,20 @@ https://github.com/XTLS/Trojan-killer/tree/main
 6 naiveproxy and singbox
 
 how to breakwall
+FIRST UNINSTALL (360 (HUORONG (JINSHANDUBA (TENGXUNDIANNAOGUANJIA (AND QQ WECHAT
+THEN INSTALL QQ AND WECHAT IN WINDOWS SANDBOX AS SHOWN IN https://github.com/empty-233/tencent-sandbox
+推荐用国外的杀毒软件比如：avast，防火墙：simplewall等，它们一般不会干扰翻墙。
+
+THEN INSTALL GEPH VPN https://f001.backblazeb2.com/file/geph4-dl/geph-releases/dl.html
+
+AFTER ENABLE GEPH
+GO
+1 ikuuu.me free50g1month
+2 v2free.org 
+3 glados.space 12yuan1month
+3 xingsu.club 12yuan1year
+
+TO REGISTER THEM USE GMAIL OR OUTLOOK OR PROTONMAIL ETC.NO NETEASE ALIYUN AND QQ AND SINA.
+
+AFTER RIGISTER THE ACCOUNT,DO NOT DOWNLOAD THEIR CLIENT
+USE https://github.com/zzzgydi/clash-verge/releases/tag/v1.3.8 or https://github.com/MatsuriDayo/nekoray/releases (the latest as i write is https://github.com/MatsuriDayo/nekoray/releases/tag/3.24) and https://github.com/SagerNet/sing-box(for who can understand json)
