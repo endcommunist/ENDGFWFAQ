@@ -30,7 +30,7 @@ TO REGISTER THEM USE PROTONMAIL TUTA ETC.NO NETEASE ALIYUN AND QQ AND SINA.
 AFTER RIGISTER THE ACCOUNT,DO NOT DOWNLOAD THEIR CLIENT
 USE https://github.com/zzzgydi/clash-verge/releases/tag/v1.3.8 or https://github.com/MatsuriDayo/nekoray/releases (the latest as i write is https://github.com/MatsuriDayo/nekoray/releases/tag/3.24) and https://github.com/SagerNet/sing-box(for who can understand json)
 
-history of proposely end ccp software(note that socks5 and ssh are not proposely)
+history of proposely end ccp software(note that socks5 and ssh tor are not proposely end ccp software)
 
 200* snova  java
 201* google app engine  python
@@ -40,10 +40,9 @@ history of proposely end ccp software(note that socks5 and ssh are not proposely
 201* v2ray  go
 201* trojan  go
 201* naiveproxy  c++
+201* rsnova  rust
 202* clash
-202* rsnova  rust
+202* geph4  rust
 202* clashmeta
 202* sing-box  go
 202* hysteria  go
-
-
