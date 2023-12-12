@@ -1,3 +1,4 @@
+<pre><code>
 about ccp ban (by illegally catch or threaten software writer with their job money and family member and their life)
 1 clash
 has been banned
@@ -46,10 +47,12 @@ history of proposely (libre) end ccp software(note that socks5 and ssh tor are n
 202* hysteria  go
 
 after breaking wall,donot remember to view some politics,do not always view porn or moe!
-
+</code></pre>
 https://www.youtube.com/@ludemedia5215/streams
 https://soundofhope.org
 ![sword of end ccp](https://github.com/end-china-communist-party/how-to-breakwall-break-gfw-proxy/assets/136224357/e71e2a1a-f9b9-4e72-815b-a7afe09ea738)
+<pre><code>
 happy joke
 xray https://sekai.icu/posts/design-issues-in-the-vless-protocol/->it says(xtls-vision 整体设计起源于 Trojan、包含了大量 VMess 的缺点、实现了 Xray 需要在不修改协议的情况下修改协议（附加子协议） 的需求。)https://github.com/v2fly/v2ray-core->it see udp as tcp stream...trojan https://github.com/XTLS/Trojan-killer/tree/main
 but sometimes,vless can break gfw while hysteria is banned...
+</code></pre>
