@@ -1,6 +1,6 @@
 1 clash
 has been banned
-2 clashmeta and clash verge
+2 clashmeta and clash verge(note clash-verge-rec)
 clash banned,cannot continue,can still be used until a security hole is found
 3 clashforwindowspkg 
 author donot protect himself well and leak information on twitter and github,so he take down for his own safety
@@ -19,12 +19,31 @@ THEN INSTALL GEPH VPN https://f001.backblazeb2.com/file/geph4-dl/geph-releases/d
 
 AFTER ENABLE GEPH
 GO
-1 ikuuu.me free50g1month
-2 v2free.org 
-3 glados.space 12yuan1month
-3 xingsu.club 12yuan1year
+1 https://ikuuu.me/ free50g1month
+2 https://v2-free.github.io/
+3 https://glados.rocks/ 12yuan1month
+3 https://xingsu.shop/ 12yuan1year
+4 https://dash.fscloud.cc
 
-TO REGISTER THEM USE GMAIL OR OUTLOOK OR PROTONMAIL ETC.NO NETEASE ALIYUN AND QQ AND SINA.
+TO REGISTER THEM USE PROTONMAIL TUTA ETC.NO NETEASE ALIYUN AND QQ AND SINA.
 
 AFTER RIGISTER THE ACCOUNT,DO NOT DOWNLOAD THEIR CLIENT
 USE https://github.com/zzzgydi/clash-verge/releases/tag/v1.3.8 or https://github.com/MatsuriDayo/nekoray/releases (the latest as i write is https://github.com/MatsuriDayo/nekoray/releases/tag/3.24) and https://github.com/SagerNet/sing-box(for who can understand json)
+
+history of proposely end ccp software(note that socks5 and ssh are not proposely)
+
+200* snova  java
+201* google app engine  python
+201* shadowsocks  c
+201* shadowsocksr  c++
+201* gsnova  go
+201* v2ray  go
+201* trojan  go
+201* naiveproxy  c++
+202* clash
+202* rsnova  rust
+202* clashmeta
+202* sing-box  go
+202* hysteria  go
+
+
