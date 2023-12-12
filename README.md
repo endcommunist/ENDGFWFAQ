@@ -7,7 +7,7 @@ clash banned,cannot continue,can still be used until a security hole is found
 author donot protect himself well and leak information on twitter and github,so he take down for his own safety
 
 how to breakwall
-FIRST UNINSTALL (360 (HUORONG (JINSHANDUBA (TENGXUNDIANNAOGUANJIA (AND QQ WECHAT
+FIRST UNINSTALL (360) (HUORONG) (JINSHANDUBA) (TENGXUNDIANNAOGUANJIA) (AND QQ WECHAT)
 THEN INSTALL QQ AND WECHAT IN WINDOWS SANDBOX AS SHOWN IN https://github.com/empty-233/tencent-sandbox
 推荐用国外的杀毒软件比如：avast，防火墙：simplewall等，它们一般不会干扰翻墙。
 
@@ -46,10 +46,10 @@ history of proposely (libre) end ccp software(note that socks5 and ssh tor are n
 202* hysteria  go
 
 after breaking wall,donot remember to view some politics,do not always view porn or moe!
-see
+
 https://www.youtube.com/@ludemedia5215/streams
 https://soundofhope.org
-
+![sword of end ccp](https://github.com/end-china-communist-party/how-to-breakwall-break-gfw-proxy/assets/136224357/e71e2a1a-f9b9-4e72-815b-a7afe09ea738)
 happy joke
 xray https://sekai.icu/posts/design-issues-in-the-vless-protocol/->it says(xtls-vision 整体设计起源于 Trojan、包含了大量 VMess 的缺点、实现了 Xray 需要在不修改协议的情况下修改协议（附加子协议） 的需求。)https://github.com/v2fly/v2ray-core->it see udp as tcp stream...trojan https://github.com/XTLS/Trojan-killer/tree/main
 but sometimes,vless can break gfw while hysteria is banned...
