@@ -1,3 +1,7 @@
+首先，中華蘇維埃（赤匪）不是漢族的，更不代表漢族，更不代表“中華”，只代表“蘇維埃”，就是極權社會主義，斯大林主義，特務治國（社會主義的本質，納粹也叫國家社會主義），毛澤東用特務，64鄧小平用特務，江澤民迫害法輪功（搞貪污社會主義）用特務，胡錦濤溫家寶也用，習近平更是用特務，殺薄熙來用特務，反四通橋用特務，殺白紙革命用特務，搞計劃經濟還用特務。
+舉個例子
+https://www.chzidian.com/wnl_2023-12-16/還有，17號就沒了，爲啥？
+17等於10月7號，普京的生日，這下信中華蘇維埃（赤匪）不是漢族的，更不代表漢族，更不代表“中華”，只代表“蘇維埃”了吧？
 <pre><code>
 about ccp ban (by illegally catch or threaten software writer with their job money and family member and their life)
 1 clash
