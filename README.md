@@ -32,9 +32,9 @@ GO
 TO REGISTER THEM USE PROTONMAIL TUTANOTA ETC.NO NETEASE ALIYUN AND QQ AND SINA.
 
 AFTER RIGISTER THE ACCOUNT,DO NOT DOWNLOAD THEIR CLIENT
-USE https://github.com/zzzgydi/clash-verge/releases/tag/v1.3.8
-or https://github.com/MatsuriDayo/nekoray/releases (the latest as i write is https://github.com/MatsuriDayo/nekoray/releases/tag/3.24)
-and https://github.com/SagerNet/sing-box(for who can understand json)
+USE [v2rayn](https://github.com/2dust/v2rayN) (do not support clash link but is updated and stable)
+or [nekoray](https://github.com/MatsuriDayo/nekoray/releases) (it do not update its core)
+or [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) (it uses a mihoyo core)
 
 history of proposely (libre) end ccp software(note that socks5 and ssh tor are not proposely end ccp software)
 200* snova  java
@@ -54,8 +54,8 @@ history of proposely (libre) end ccp software(note that socks5 and ssh tor are n
 
 after breaking wall,donot remember to view some politics,do not always view porn or moe!
 </code></pre>
-https://www.youtube.com/@ludemedia5215/
-https://soundofhope.org
+[https://www.youtube.com/@ludemedia5215/](https://www.youtube.com/@ludemedia5215/streams)
+[https://soundofhope.org](https://soundofhope.org)
 ![sword of end ccp](https://github.com/end-china-communist-party/how-to-breakwall-break-gfw-proxy/assets/136224357/e71e2a1a-f9b9-4e72-815b-a7afe09ea738)
 <pre><code>
 happy joke
